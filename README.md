@@ -17,7 +17,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:123C69,100:1D5FA7&height=180&section=header&text=IT%20SUPPORT%20ENGINEER&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:6D28D9&height=180&section=header&text=IT%20SUPPORT%20ENGINEER&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=55"
     width="100%"
     alt="IT Support Engineer Header"
   />
