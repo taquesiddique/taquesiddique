@@ -84,16 +84,6 @@ I enjoy solving problems across **Windows, networking, identity management, Micr
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taquesiddique&theme=github_dark" width="98%" alt="Profile details"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taquesiddique&theme=github_dark" width="48%" alt="Top languages by repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taquesiddique&theme=github_dark" width="48%" alt="Top languages by commit"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taquesiddique&theme=github_dark" width="48%" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taquesiddique&theme=github_dark&utcOffset=5.5" width="48%" alt="Commits by hour"/>
-</p>
-
 ---
 
 <!-- ========================= TROUBLESHOOTING WORKFLOW ========================= -->
