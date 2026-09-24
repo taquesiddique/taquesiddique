@@ -16,7 +16,11 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=120&section=header&text=IT%20Support%20Engineer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:0078D4,100:00c6ff&height=180&section=header&text=IT%20SUPPORT%20ENGINEER&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=55"
+    width="100%"
+    alt="IT Support Engineer Header"
+  />
 </p>
 
 
