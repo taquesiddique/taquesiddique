@@ -234,3 +234,5 @@ Microsoft 365, endpoint management and virtualization environments**.
                         │
                         ▼
                Close / Escalate Ticket
+📈 GitHub Profile Summary Cards
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark" width="98%" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" width="48%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" width="48%" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=github_dark" width="48%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=github_dark&utcOffset=5.5" width="48%" /> </p>
