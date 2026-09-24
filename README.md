@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Taque Ahmad Siddique</h1>
 
 <h3 align="center">
-  🖥️ IT Support Engineer | Technical Support
+  🖥️ IT/Technical Support Engineer
 </h3>
 
 <p align="center">
